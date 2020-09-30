@@ -1,0 +1,29 @@
+/*-------------- Architects_Daughter------------------*/
+@font-face{
+    font-family: Architects_Daughter;
+    src: url('../fonts/Architects_Daughter/ArchitectsDaughter-Regular.ttf');
+}
+
+/*-------------- Lobster_Two------------------*/
+@font-face{
+    font-family:Lobster_Two ;
+    src: url('../fonts/Lobster_Two/LobsterTwo-Bold.ttf');
+}
+
+/*-------------- Pacifico------------------*/
+@font-face{
+    font-family: Pacifico;
+    src: url('../fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+/*-------------- Permanent_Maker------------------*/
+@font-face{
+    font-family: Permanent_Maker;
+    src: url('../fonts/Permanent_Marker/PermanentMarker-Regular.ttf');
+}
+
+/*-------------- PT_Sans_Narrow------------------*/
+@font-face{
+    font-family: PT_Sans_Narrowr;
+    src: url('../fonts/PT_Sans_Narrow/PTSansNarrow-Bold.ttf');
+}
